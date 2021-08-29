@@ -1,1 +1,4 @@
 .vscode
+forecasts/
+__pycache__
+cache-directory
