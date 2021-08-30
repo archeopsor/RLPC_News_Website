@@ -1,0 +1,27 @@
+{
+    "name": "rlpcnews_site",
+    "version": "1.0.0",
+    "description": "A website for news, stats, fantasy, and other things relevant to the RLPC Rocket League server and leagues.",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "selenium"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/archeopsor/RLPC_News_Website.git"
+    },
+    "keywords": [
+        "Rocket League",
+        "rlpc",
+        "discord"
+    ],
+    "author": "Simi Singh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/archeopsor/RLPC_News_Website/issues"
+    },
+    "homepage": "https://github.com/archeopsor/RLPC_News_Website#readme"
+}
